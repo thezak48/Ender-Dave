@@ -41,7 +41,7 @@ __Not for production use. Use with caution!__
 | BTT TFT E3 v3 Screen       |
 | BTT Smart Filament Sensor |
 | XY Linear Rails     |
-| E3D Cyclops Dual Extrusion |
+| E3D Cyclops Dual Extrusion or Palette |
 | Printer Enclosure   |
 | Filament Dry Box    |
 | Hotend LED's        |
@@ -72,6 +72,7 @@ __Not for production use. Use with caution!__
 * Nozzle Park  
 * Print Counter  
 * Individual Axis Homing  
+* M600 Filament Change
 
 ## Credits
 
