@@ -17,7 +17,7 @@ __Not for production use. Use with caution!__
 | Ender 3             |
 | SKR v1.3            |
 | TMC 2209            |
-| E3D V6              |
+| E3D Volcano         |
 | E3D Titan Extruder  |
 | [Magnetic Bed Sheet](https://www.amazon.co.uk/gp/product/B07QQN8NXP/)  |
 | Inductive Probe     |

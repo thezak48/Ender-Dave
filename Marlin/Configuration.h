@@ -494,9 +494,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Dave
-  #define DEFAULT_Kp 38.11
-  #define DEFAULT_Ki 3.14
-  #define DEFAULT_Kd 115.72
+  #define DEFAULT_Kp 36.33
+  #define DEFAULT_Ki 3.39
+  #define DEFAULT_Kd 97.24
 
   // Ultimaker
   //#define DEFAULT_Kp 22.2
@@ -974,7 +974,7 @@
  *
  * Specify a Probe position as { X, Y, Z }
  */
-#define NOZZLE_TO_PROBE_OFFSET { -55, -8, -2.25 }
+#define NOZZLE_TO_PROBE_OFFSET { -58, -5, 0 }
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
@@ -1301,7 +1301,7 @@
 
   //#define MESH_EDIT_GFX_OVERLAY   // Display a graphics overlay while editing the mesh
 
-  #define MESH_INSET 1              // Set Mesh bounds as an inset region of the bed
+  #define MESH_INSET 5              // Set Mesh bounds as an inset region of the bed
   #define GRID_MAX_POINTS_X 10      // Don't use more than 15 points per axis, implementation limited.
   #define GRID_MAX_POINTS_Y GRID_MAX_POINTS_X
 
@@ -1361,7 +1361,7 @@
 // Manually set the home position. Leave these undefined for automatic settings.
 // For DELTA this is the top-center of the Cartesian print volume.
 //#define MANUAL_X_HOME_POS 0
-//#define MANUAL_Y_HOME_POS 0
+//#define MANUAL_Y_HOME_POS -9
 //#define MANUAL_Z_HOME_POS 0
 
 // Use "Z Safe Homing" to avoid homing with a Z probe outside the bed area.
