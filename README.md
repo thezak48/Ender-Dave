@@ -20,7 +20,7 @@ __Not for production use. Use with caution!__
 | E3D Volcano         |
 | E3D Titan Extruder  |
 | [Magnetic Bed Sheet](https://www.amazon.co.uk/gp/product/B07QQN8NXP/)  |
-| Inductive Probe     |
+| BLTouch     |
 | OctoPrint Raspberry Pi 4 4GB |
 | [Over the top Passive Cooling Shell for Pi 4](https://www.amazon.co.uk/gp/product/B07VD5L1VY) |
 | Noctua NF-A4x20 5v PWM 4 Pin |
