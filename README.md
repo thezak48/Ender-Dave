@@ -23,7 +23,8 @@ __Not for production use. Use with caution!__
 | Inductive Probe     |
 | OctoPrint Raspberry Pi 4 4GB |
 | [Over the top Passive Cooling Shell for Pi 4](https://www.amazon.co.uk/gp/product/B07VD5L1VY) |
-| Noctua NF-A4x20 5v PWM 4 Pin
+| Noctua NF-A4x20 5v PWM 4 Pin |
+| Dual Z Axis |
 
 ## Mods
 |                     |
